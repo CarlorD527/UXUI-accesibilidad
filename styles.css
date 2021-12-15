@@ -1,0 +1,13 @@
+:root {
+    --font-size: 1;
+  }
+
+#textoprueba
+{
+    height: auto;
+    width: auto;
+    font-size: calc(var(--font-size) * 1em);
+}
+p{
+  background-color: white;
+}
